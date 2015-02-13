@@ -11,4 +11,4 @@ process_monitor_linux
 
 配置文件
 ========
-monitor.ini文件中：param是重启失败发的信息，paramsuc是重启成功发的。part2可配置另外的手机号码，以此类推。
+monitor.ini文件中：param是重启失败发的信息，paramsuc是重启成功发的。part2可配置另外的手机号码，依此类推。
